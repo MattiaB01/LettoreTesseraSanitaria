@@ -9,3 +9,6 @@ smartcard ad inserimento.
 
 
 ![lettore_tessera_sanitaria](https://user-images.githubusercontent.com/104713814/191124484-6e282b39-485b-49a5-8c97-49fd56d0dba2.jpg)
+
+### Aggiornamento
+Nella versione dimostrativa è stata eliminata la funzione di esportazione dati in formato txt.
